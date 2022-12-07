@@ -15,7 +15,6 @@ Display
 - SASS
 - Build Tools
 
-- ReactJS
 - Banyak Lagi
 
 - Ni Coba Nambah Branchin 
