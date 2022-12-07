@@ -11,4 +11,4 @@ Progress Belajar Coding
 - Build Tools
 
 - ReactJS
-- Dan Lainnya
+- Banyak Lagi
