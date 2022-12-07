@@ -2,7 +2,12 @@ Progress Belajar Coding
 - HTML Dasar
 - HTML Advance
 - CSS Dasar
-- CSS Advance
+- CSS Advance 
+Grid System
+Flexbox
+Display
+
+
 - JavaScript Dasar
 - JavaScript Advance
 
@@ -13,6 +18,7 @@ Progress Belajar Coding
 - ReactJS
 - Vue
 - Angular
+
 - Banyak Lagi
 
 - Ni Coba Nambah Branchin 
