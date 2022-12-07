@@ -5,6 +5,7 @@ Progress Belajar Coding
 - CSS Advance 
 Grid System
 Flexbox
+Display
 
 
 - JavaScript Dasar
