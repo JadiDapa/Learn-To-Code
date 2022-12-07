@@ -2,7 +2,11 @@ Progress Belajar Coding
 - HTML Dasar
 - HTML Advance
 - CSS Dasar
-- CSS Advance
+- CSS Advance 
+Grid System
+Flexbox
+
+
 - JavaScript Dasar
 - JavaScript Advance
 
