@@ -11,6 +11,7 @@ Progress Belajar Coding
 - Build Tools
 
 - ReactJS
+-Vue
 - Banyak Lagi
 
 - Ni Coba Nambah Branchin 
